@@ -1,6 +1,6 @@
 # RAG-pdf-chatbot
 Building a RAG chatbot for answering users' questions from PDF files
-<img src="rag.png" width="500">
+<img src="images/rag.jpg" width="500">
 
 ## Overview
 This project implements a Retrieval-Augmented Generation (RAG) chatbot using Streamlit. Users can upload PDF files, and the chatbot retrieves relevant information from the PDFs to answer natural language questions. The system leverages OpenAI models, LangChain utilities, and an in-memory vector store for efficient document retrieval.
@@ -24,8 +24,8 @@ This project implements a Retrieval-Augmented Generation (RAG) chatbot using Str
 - **Interactive Interface**:  
   The application uses Streamlit to provide an interactive, chat-like interface where user questions and bot responses are displayed.
 
-## Installation
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/yourusername/RAG-pdf-chatbot.git
-   cd RAG-pdf-chatbot
+## Result
+<img src="images/rag_chatbot.png" width="500">
+
+
+
